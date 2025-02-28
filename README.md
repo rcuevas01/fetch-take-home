@@ -32,4 +32,6 @@ I think that the weakest part of the project was the UI design. I opted for a si
 
 ### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
 
-I really enjoyed working on this project! Looking forward to hearing back.
+I believe I put my best foot forward in writing production level code, but there are some spots where I would have definitely changed things if this were a larger project and I had more time. For example, I would want to write a generic network layer that can work with any endpoint and get/put data. I also tried my best to follow MVVM but have not written Swift outside of startups where I was sometimes the sole technical member of the team, so I'm not sure if the way I decomposed things completely correctly, but I am always open to feedback and want to improve as a developer!
+
+In all, I really enjoyed working on this project! Looking forward to hearing back.
